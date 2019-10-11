@@ -8,6 +8,7 @@ buildscript {
 
 plugins {
     id 'java'
+    id 'idea'
 }
 
 group 'com.util'

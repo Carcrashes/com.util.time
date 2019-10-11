@@ -53,6 +53,7 @@ public class LocalDateUtil {
      */
     public final static String DEFAULT_PATTERN_DATE = "yyyy-MM-dd";
 
+    public final static String DEFAULT_PATTERN_DATE2 = "yyyy/MM/dd";
     /**
      * 年-月-日 中文版
      */
